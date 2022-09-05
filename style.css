@@ -7,7 +7,7 @@ table{
     margin: auto;
 }
 #equal{
-    background-color: rgb(116, 116, 206);
+    background-color:green
 }
 
 input{
@@ -17,7 +17,9 @@ input{
     height: 50px;
     width: 380px;
 }
-
+#clr{
+    background-color: rgb(224, 35, 35);
+}
 button:hover{
     background-color: #8e9c6e;
     border-block-color: white;
